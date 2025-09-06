@@ -2,7 +2,7 @@
 "1. Buat variable integer dengan nama area, width, dan length" 
 "2. Masukkan nilai 3 ke variabel width dan 5 ke variabel length" 
 "3. Masukkan rumus area = width * length, dan luas persegi panjang akan didapat" 
-"" 
+""
 "Dengan input user :" 
 "1. Buat variable integer dengan nama area, width, dan length" 
 "2. Buat code untuk menerima input user tentang nilai width dan length lalu simpan dalam variable masing-masing" 
